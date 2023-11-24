@@ -1,0 +1,13 @@
+com/example/servlet/DataAccessServletTest.class
+com/example/util/Routeur.class
+com/example/model/Aliment.class
+com/example/dao/AlimentDAO.class
+com/example/servlet/AlimentServlet.class
+com/example/dao/CouleurDAO.class
+com/example/util/ResultSetTableDisplay.class
+com/example/dao/IGenericCRUD.class
+com/example/model/Couleur.class
+com/example/util/ServletUtils.class
+com/example/Main.class
+com/example/dao/DatabaseConnection.class
+com/example/servlet/CouleurServlet.class
